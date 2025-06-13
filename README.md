@@ -1,4 +1,4 @@
-[![journal](https://img.shields.io/badge/GitHub-DOI-blue?)](https://doi.org/10.1002/1878-0261.70043)
+[![Journal](https://img.shields.io/badge/Journal-DOI-blue?)](https://doi.org/10.1002/1878-0261.70043)
 [![Snakemake](https://img.shields.io/badge/snakemake-≥6.1.0-brightgreen.svg)](https://snakemake.github.io)
 ![Testing](https://github.com/mspodda/isoworm/workflows/Testing/badge.svg)
 [![GitHub issues](https://img.shields.io/github/issues-raw/mspodda/isoworm)](https://github.com/mspodda/isoworm/issues)
