@@ -1,6 +1,6 @@
 ![Testing](https://github.com/mspodda/isoworm/workflows/Testing/badge.svg)
 [![Journal](https://img.shields.io/badge/Journal-DOI-blue?)](https://doi.org/10.1002/1878-0261.70043)
-[![GitHub Website](https://img.shields.io/Website-up-down-green-red/http/monip.org.svg)](https://ctglab.github.io/)
+[![GitHub Website](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://ctglab.github.io/)
 [![GitHub issues](https://img.shields.io/github/issues-raw/mspodda/isoworm)](https://github.com/mspodda/isoworm/issues)
 ![GitHub open pull requests](https://img.shields.io/github/issues-pr-raw/mspodda/isoworm)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mspodda/isoworm) 
