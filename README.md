@@ -1,6 +1,5 @@
-[![Journal](https://img.shields.io/badge/Journal-DOI-blue?)](https://doi.org/10.1002/1878-0261.70043)
-[![Snakemake](https://img.shields.io/badge/snakemake-≥6.1.0-brightgreen.svg)](https://snakemake.github.io)
 ![Testing](https://github.com/mspodda/isoworm/workflows/Testing/badge.svg)
+[![Journal](https://img.shields.io/badge/Journal-DOI-blue?)](https://doi.org/10.1002/1878-0261.70043)
 [![GitHub issues](https://img.shields.io/github/issues-raw/mspodda/isoworm)](https://github.com/mspodda/isoworm/issues)
 ![GitHub open pull requests](https://img.shields.io/github/issues-pr-raw/mspodda/isoworm)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mspodda/isoworm) 
@@ -10,6 +9,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/mspodda/isoworm)
 ![GitHub Repo stars](https://img.shields.io/github/stars/mspodda/isoworm)
 ![GitHub watchers](https://img.shields.io/github/watchers/mspodda/isoworm.svg)
+[![Snakemake](https://img.shields.io/badge/snakemake-≥6.1.0-brightgreen.svg)](https://snakemake.github.io)
 
 # What is Isoworm
 IsoWorm, is a Snakemake pipeline developed to quantify isoforms expression levels in large RNA-seq datasets (paired-end short-reads). 
